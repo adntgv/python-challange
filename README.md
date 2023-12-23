@@ -1,0 +1,1 @@
+To run this app just execute "docker compose up"
